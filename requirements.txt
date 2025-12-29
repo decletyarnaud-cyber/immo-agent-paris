@@ -1,0 +1,40 @@
+# Web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# PDF extraction
+pdfplumber>=0.10.0
+PyMuPDF>=1.23.0
+pytesseract>=0.3.10
+
+# Data processing
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# Web interface
+streamlit>=1.29.0
+folium>=0.15.0
+streamlit-folium>=0.15.0
+plotly>=5.18.0
+
+# Scheduling
+schedule>=1.2.0
+APScheduler>=3.10.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0.0
+tqdm>=4.66.0
+loguru>=0.7.0
+
+# Geocoding
+geopy>=2.4.0
+
+# LLM extraction
+anthropic>=0.39.0

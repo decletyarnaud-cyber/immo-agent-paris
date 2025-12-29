@@ -1,0 +1,545 @@
+{
+  "8aba2b06e242b18af9699ee3a9ea74e8": {
+    "prix_m2": 4173.0,
+    "prix_m2_raw": 4637.0,
+    "nb_listings": 31,
+    "geographic_match": "commune",
+    "source_url": "https://www.leboncoin.fr/recherche?category=9&locations=Noisy%20Le%20Grand",
+    "sources": [
+      "SeLoger",
+      "Bien'ici"
+    ],
+    "notes": "Prix demandés -10% (31 annonces via SeLoger, Bien'ici)",
+    "comparables": [
+      {
+        "titre": "Appartement 90.0m²",
+        "prix": 417300.0,
+        "surface": 90.0,
+        "prix_m2": 4637.0,
+        "url": "https://www.selogerneuf.com/annonces/neuf/programme/noisy-le-grand-93/255626411/#",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 82.0m²",
+        "prix": 380000.0,
+        "surface": 82.0,
+        "prix_m2": 4634.0,
+        "url": "https://www.selogerneuf.com/annonces/neuf/programme/noisy-le-grand-93/254930501/#",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "A vendre. Appartement Montigny Le Btx au Village 3 pièces, c",
+        "prix": 294000.0,
+        "surface": 63.6,
+        "prix_m2": 4623.0,
+        "url": "https://www.bienici.com/annonce/nestenn-1-99938779468",
+        "source": "Bien'ici"
+      },
+      {
+        "titre": "Guyancourt (proche future gare)",
+        "prix": 252000.0,
+        "surface": 55.23,
+        "prix_m2": 4563.0,
+        "url": "https://www.bienici.com/annonce/apimo-86282327",
+        "source": "Bien'ici"
+      },
+      {
+        "titre": "4 pièces dans une résidence de standing de 2019, jardin de 1",
+        "prix": 379900.0,
+        "surface": 80.0,
+        "prix_m2": 4749.0,
+        "url": "https://www.bienici.com/annonce/nestenn-1-99939224506",
+        "source": "Bien'ici"
+      },
+      {
+        "titre": "Appartement 60.0m²",
+        "prix": 285000.0,
+        "surface": 60.0,
+        "prix_m2": 4750.0,
+        "url": "https://www.selogerneuf.com/annonces/neuf/programme/noisy-le-grand-93/254930501/#",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 61.0m²",
+        "prix": 290000.0,
+        "surface": 61.0,
+        "prix_m2": 4754.0,
+        "url": "https://www.selogerneuf.com/annonces/neuf/programme/noisy-le-grand-93/235674669/#",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 69.0m²",
+        "prix": 329000.0,
+        "surface": 69.0,
+        "prix_m2": 4768.0,
+        "url": "https://www.selogerneuf.com/annonces/neuf/programme/noisy-le-grand-93/191336517/#",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 78.0m²",
+        "prix": 345000.0,
+        "surface": 78.0,
+        "prix_m2": 4423.0,
+        "url": "https://www.selogerneuf.com/annonces/neuf/programme/noisy-le-grand-93/213271503/#",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 90.0m²",
+        "prix": 390000.0,
+        "surface": 90.0,
+        "prix_m2": 4333.0,
+        "url": "https://www.selogerneuf.com/annonces/neuf/programme/noisy-le-grand-93/235674669/#",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 60.0m²",
+        "prix": 297000.0,
+        "surface": 60.0,
+        "prix_m2": 4950.0,
+        "url": "https://www.selogerneuf.com/annonces/neuf/programme/noisy-le-grand-93/213271503/#",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "EXCLUSIVITÉ - APPARTEMENT DE 3 PIECES A VENDRE AUX CLAYES-SO",
+        "prix": 299900.0,
+        "surface": 69.71,
+        "prix_m2": 4302.0,
+        "url": "https://www.bienici.com/annonce/era-2-58832251",
+        "source": "Bien'ici"
+      },
+      {
+        "titre": "Bordeaux Caudéran - Appartement traversant 85 m² avec garage",
+        "prix": 358000.0,
+        "surface": 85.0,
+        "prix_m2": 4212.0,
+        "url": "https://www.bienici.com/annonce/immo-facile-57431902",
+        "source": "Bien'ici"
+      },
+      {
+        "titre": "Appartement 61.0m²",
+        "prix": 310300.0,
+        "surface": 61.0,
+        "prix_m2": 5087.0,
+        "url": "https://www.selogerneuf.com/annonces/neuf/programme/noisy-le-grand-93/255626411/#",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement Guyancourt 3 pièce(s) 70.96 m2  3eme étage balco",
+        "prix": 295000.0,
+        "surface": 70.96,
+        "prix_m2": 4157.0,
+        "url": "https://www.bienici.com/annonce/nestenn-1-99939200786",
+        "source": "Bien'ici"
+      }
+    ],
+    "cached_at": "2025-12-29T20:39:22.303922"
+  },
+  "30a29e5c5f1e0f0c427b64fec4feb95f": {
+    "prix_m2": 10019.0,
+    "prix_m2_raw": 11132.0,
+    "nb_listings": 62,
+    "geographic_match": "commune",
+    "source_url": "https://www.leboncoin.fr/recherche?category=9&locations=Paris%2017Eme",
+    "sources": [
+      "LeBonCoin",
+      "SeLoger",
+      "Bien'ici"
+    ],
+    "notes": "Prix demandés -10% (62 annonces via LeBonCoin, SeLoger, Bien'ici)",
+    "comparables": [
+      {
+        "titre": "Appartement 1 pièce 9 m²",
+        "prix": 100000,
+        "surface": 9.0,
+        "prix_m2": 11111.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3116433604",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Studio en parfait état au pied du métro Lourmel - Paris XV",
+        "prix": 145000.0,
+        "surface": 13.0,
+        "prix_m2": 11154.0,
+        "url": "https://www.bienici.com/annonce/ag753010-498781898",
+        "source": "Bien'ici"
+      },
+      {
+        "titre": "Appartement 1 pièce 9 m²",
+        "prix": 99800,
+        "surface": 9.0,
+        "prix_m2": 11089.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3115818473",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 17.0m²",
+        "prix": 190000.0,
+        "surface": 17.0,
+        "prix_m2": 11176.0,
+        "url": "https://www.seloger.com/annonces/achat/appartement/paris-17eme-75/255741429.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "STUDIO FORTE RENTABILITÉ, PORT DE NICE",
+        "prix": 120000.0,
+        "surface": 10.7,
+        "prix_m2": 11215.0,
+        "url": "https://www.bienici.com/annonce/apimo-86460949",
+        "source": "Bien'ici"
+      },
+      {
+        "titre": "Appartement 12.0m²",
+        "prix": 135000.0,
+        "surface": 12.0,
+        "prix_m2": 11250.0,
+        "url": "https://www.seloger.com/annonces/achat/appartement/paris-17eme-75/la-fourche-guy-moquet/253629205.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 8.0m²",
+        "prix": 90000.0,
+        "surface": 8.0,
+        "prix_m2": 11250.0,
+        "url": "https://www.seloger.com/annonces/achat/appartement/paris-17eme-75/batignolles-cardinet/253715335.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 1 pièce 9 m²",
+        "prix": 99000,
+        "surface": 9.0,
+        "prix_m2": 11000.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/2960327610",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 1 pièce 10 m²",
+        "prix": 110000,
+        "surface": 10.0,
+        "prix_m2": 11000.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3075190425",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Studio 1 pièce 10 m²",
+        "prix": 113000,
+        "surface": 10.0,
+        "prix_m2": 11300.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3033128303",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Studio 1 pièce 11 m²",
+        "prix": 120000,
+        "surface": 11.0,
+        "prix_m2": 10909.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3033128378",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 11.0m²",
+        "prix": 125000.0,
+        "surface": 11.0,
+        "prix_m2": 11364.0,
+        "url": "https://www.seloger.com/annonces/achat/appartement/paris-17eme-75/pereire-malesherbes/244838587.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Studette - XVème PARIS",
+        "prix": 80000.0,
+        "surface": 7.0,
+        "prix_m2": 11429.0,
+        "url": "https://www.bienici.com/annonce/ag753659-482093597",
+        "source": "Bien'ici"
+      },
+      {
+        "titre": "Studio 1 pièce 11 m²",
+        "prix": 127000,
+        "surface": 11.0,
+        "prix_m2": 11545.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/2923469104",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 1 pièce 7 m²",
+        "prix": 75000,
+        "surface": 7.0,
+        "prix_m2": 10714.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/2950459097",
+        "source": "LeBonCoin"
+      }
+    ],
+    "cached_at": "2025-12-29T20:40:40.259280"
+  },
+  "6a55aeb167c6c666159f4167220b24fc": {
+    "prix_m2": 9900.0,
+    "prix_m2_raw": 11000.0,
+    "nb_listings": 66,
+    "geographic_match": "commune",
+    "source_url": "https://www.leboncoin.fr/recherche?category=9&locations=Paris%2016Eme",
+    "sources": [
+      "LeBonCoin",
+      "SeLoger",
+      "Bien'ici"
+    ],
+    "notes": "Prix demandés -10% (66 annonces via LeBonCoin, SeLoger, Bien'ici)",
+    "comparables": [
+      {
+        "titre": "Appartement 3 pièces 45 m²",
+        "prix": 495000,
+        "surface": 45.0,
+        "prix_m2": 11000.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3100700778",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 2 pièces 45 m²",
+        "prix": 495000,
+        "surface": 45.0,
+        "prix_m2": 11000.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3068991818",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "DAGUERRE / MAINE : Charmant 2 pièces en dernier étage avec a",
+        "prix": 440000.0,
+        "surface": 40.0,
+        "prix_m2": 11000.0,
+        "url": "https://www.bienici.com/annonce/ag750523-502798022",
+        "source": "Bien'ici"
+      },
+      {
+        "titre": "Appartement 2 pièces 40 m²",
+        "prix": 442000,
+        "surface": 40.0,
+        "prix_m2": 11050.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3086529544",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 32.0m²",
+        "prix": 355000.0,
+        "surface": 32.0,
+        "prix_m2": 11094.0,
+        "url": "https://www.seloger.com/annonces/achat/appartement/paris-16eme-75/chaillot/256671243.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 98.0m²",
+        "prix": 1100000.0,
+        "surface": 98.0,
+        "prix_m2": 11224.0,
+        "url": "https://www.bellesdemeures.com/annonces/vente/tt-2-tb-1-pl-48514/256936687/#?cmp=INTSL_ListToDetail",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 2 pièces 32 m²",
+        "prix": 359900,
+        "surface": 32.0,
+        "prix_m2": 11247.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3063629555",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 40.0m²",
+        "prix": 424000.0,
+        "surface": 40.0,
+        "prix_m2": 10600.0,
+        "url": "https://www.seloger.com/annonces/achat/appartement/paris-16eme-75/auteuil-sud/257124491.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 2 pièces 37 m²",
+        "prix": 392000,
+        "surface": 37.0,
+        "prix_m2": 10595.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3109174826",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement en viager 2 pièces 43 m²",
+        "prix": 454000,
+        "surface": 43.0,
+        "prix_m2": 10558.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3106326819",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 43.0m²",
+        "prix": 454000.0,
+        "surface": 43.0,
+        "prix_m2": 10558.0,
+        "url": "https://www.seloger.com/annonces/viagers/appartement/paris-16eme-75/muette-nord/249494779.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 2 pièces 36 m²",
+        "prix": 380000,
+        "surface": 36.0,
+        "prix_m2": 10556.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3055822567",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 2 pièces 31 m²",
+        "prix": 357000,
+        "surface": 31.0,
+        "prix_m2": 11516.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/2966082147",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Studio 1 pièce 36 m²",
+        "prix": 376200,
+        "surface": 36.0,
+        "prix_m2": 10450.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3114417359",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 2 pièces 45 m²",
+        "prix": 520000,
+        "surface": 45.0,
+        "prix_m2": 11556.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3074694110",
+        "source": "LeBonCoin"
+      }
+    ],
+    "cached_at": "2025-12-29T20:41:05.320185"
+  },
+  "b90ad7144becad855f904bee617bb8dc": {
+    "prix_m2": 7861.0,
+    "prix_m2_raw": 8735.0,
+    "nb_listings": 67,
+    "geographic_match": "commune",
+    "source_url": "https://www.leboncoin.fr/recherche?category=9&locations=Paris%2013Eme",
+    "sources": [
+      "LeBonCoin",
+      "SeLoger",
+      "Bien'ici"
+    ],
+    "notes": "Prix demandés -10% (67 annonces via LeBonCoin, SeLoger, Bien'ici)",
+    "comparables": [
+      {
+        "titre": "Appartement 3 pièces 83 m²",
+        "prix": 725000,
+        "surface": 83.0,
+        "prix_m2": 8735.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3017443411",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 4 pièces 92 m²",
+        "prix": 799000,
+        "surface": 92.0,
+        "prix_m2": 8685.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/2741826356",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 3 pièces 70 m²",
+        "prix": 595000,
+        "surface": 70.0,
+        "prix_m2": 8500.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3111429004",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 3 pièces 72 m²",
+        "prix": 649000,
+        "surface": 72.0,
+        "prix_m2": 9014.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3067095749",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 4 pièces 95 m²",
+        "prix": 860000,
+        "surface": 95.0,
+        "prix_m2": 9053.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3064355593",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 4 pièces 90 m²",
+        "prix": 750000,
+        "surface": 90.0,
+        "prix_m2": 8333.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3105663811",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 79.0m²",
+        "prix": 723000.0,
+        "surface": 79.0,
+        "prix_m2": 9152.0,
+        "url": "https://www.seloger.com/annonces/achat/appartement/paris-13eme-75/salpetriere-austerlitz/253134245.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 4 pièces 93 m²",
+        "prix": 860000,
+        "surface": 93.0,
+        "prix_m2": 9247.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3100048150",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 4 pièces 69 m²",
+        "prix": 640000,
+        "surface": 69.0,
+        "prix_m2": 9275.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3113721977",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 69.0m²",
+        "prix": 640000.0,
+        "surface": 69.0,
+        "prix_m2": 9275.0,
+        "url": "https://www.seloger.com/annonces/achat/appartement/paris-13eme-75/bievres-sud-tolbiac/256607153.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 4 pièces 84 m²",
+        "prix": 780000,
+        "surface": 84.0,
+        "prix_m2": 9286.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3110461372",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 63.0m²",
+        "prix": 510000.0,
+        "surface": 63.0,
+        "prix_m2": 8095.0,
+        "url": "https://www.seloger.com/annonces/achat/appartement/paris-13eme-75/bievres-sud-tolbiac/255561939.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Appartement 4 pièces 90 m²",
+        "prix": 845000,
+        "surface": 90.0,
+        "prix_m2": 9389.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3087095664",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 5 pièces 110 m²",
+        "prix": 880000,
+        "surface": 110.0,
+        "prix_m2": 8000.0,
+        "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/2968585335",
+        "source": "LeBonCoin"
+      },
+      {
+        "titre": "Appartement 3 pièces – atypique– Paris 18ème",
+        "prix": 739000.0,
+        "surface": 78.0,
+        "prix_m2": 9474.0,
+        "url": "https://www.bienici.com/annonce/ag753010-503856797",
+        "source": "Bien'ici"
+      }
+    ],
+    "cached_at": "2025-12-29T20:48:11.271748"
+  }
+}

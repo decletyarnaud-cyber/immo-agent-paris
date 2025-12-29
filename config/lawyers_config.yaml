@@ -1,0 +1,73 @@
+# Configuration des cabinets d'avocats connus
+# pour le scraping des procès-verbaux
+
+lawyers:
+  # Marseille
+  - name: "Cabinet Jurisbelair"
+    base_url: "https://www.jurisbelair.com"
+    auctions_path: "/encheres-publiques-marseille/"
+    city: "Marseille"
+    department: "13"
+    patterns:
+      - "jurisbelair"
+
+  - name: "Cabinet Naudin"
+    base_url: "https://www.cabinetnaudin.com"
+    auctions_path: "/ventes-aux-encheres-immobilieres"
+    city: "Marseille"
+    department: "13"
+    patterns:
+      - "naudin"
+      - "cabinet-naudin"
+
+  - name: "Cabinet Zemmam"
+    base_url: "https://www.zemmam-avocat.com"
+    auctions_path: "/adjudications-encheres-transactions-immobilieres/"
+    city: "Marseille"
+    department: "13"
+    patterns:
+      - "zemmam"
+
+  # Aix-en-Provence
+  - name: "Barreau Aix-en-Provence"
+    base_url: "https://www.barreau-aix.avocat.fr"
+    auctions_path: "/encheres-immobilieres"
+    city: "Aix-en-Provence"
+    department: "13"
+    patterns:
+      - "barreau-aix"
+
+  # Toulon
+  - name: "Barreau Toulon"
+    base_url: "https://www.barreau-toulon.avocat.fr"
+    auctions_path: "/ventes-judiciaires"
+    city: "Toulon"
+    department: "83"
+    patterns:
+      - "barreau-toulon"
+
+# Chemins communs à tester sur les sites d'avocats
+common_auction_paths:
+  - "/encheres"
+  - "/ventes"
+  - "/adjudications"
+  - "/encheres-immobilieres"
+  - "/ventes-aux-encheres"
+  - "/ventes-judiciaires"
+  - "/saisies-immobilieres"
+
+# Mots-clés pour identifier les documents
+document_keywords:
+  cahier_charges:
+    - "cahier des charges"
+    - "cahier-des-charges"
+    - "cdc"
+  proces_verbal:
+    - "procès-verbal"
+    - "proces-verbal"
+    - "pv"
+    - "description"
+  photos:
+    - "photos"
+    - "images"
+    - "visuels"
