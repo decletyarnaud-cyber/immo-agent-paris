@@ -677,5 +677,140 @@
       }
     ],
     "cached_at": "2025-12-30T17:16:24.972077"
+  },
+  "49fd4c0dfc362828da3a87229273b009": {
+    "prix_m2": 3789.0,
+    "prix_m2_raw": 4211.0,
+    "nb_listings": 39,
+    "geographic_match": "commune",
+    "source_url": "https://www.leboncoin.fr/recherche?category=9&locations=Le%20Kremlin%20Bicetre",
+    "sources": [
+      "SeLoger",
+      "Bien'ici"
+    ],
+    "notes": "Prix demandés -10% (39 annonces via SeLoger, Bien'ici)",
+    "comparables": [
+      {
+        "titre": "Maison 171.0m²",
+        "prix": 720000.0,
+        "surface": 171.0,
+        "prix_m2": 4211.0,
+        "url": "https://www.seloger.com/annonces/achat/maison/creteil-94/cimetiere/254826507.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Maison 226m2, terrain 3000m2 dont vigne AOP CONDRIEU 1500m2",
+        "prix": 960000.0,
+        "surface": 226.0,
+        "prix_m2": 4248.0,
+        "url": "https://www.bienici.com/annonce/netty-pietrapolis-house-68554",
+        "source": "Bien'ici"
+      },
+      {
+        "titre": "Maison 190.0m²",
+        "prix": 820000.0,
+        "surface": 190.0,
+        "prix_m2": 4316.0,
+        "url": "https://www.seloger.com/annonces/achat/maison/creteil-94/bords-de-marne/232710461.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Maison 158.0m²",
+        "prix": 689000.0,
+        "surface": 158.0,
+        "prix_m2": 4361.0,
+        "url": "https://www.seloger.com/annonces/achat-de-prestige/maison/creteil-94/bords-de-marne/253244961.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Maison 160.0m²",
+        "prix": 699000.0,
+        "surface": 160.0,
+        "prix_m2": 4369.0,
+        "url": "https://www.seloger.com/annonces/achat/maison/creteil-94/cimetiere/245998953.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "DRAVEIL \"PARIS JARDIN\" CHARMANTE MAISON 192 M²",
+        "prix": 760000.0,
+        "surface": 192.29,
+        "prix_m2": 3952.0,
+        "url": "https://www.bienici.com/annonce/apimo-85693927",
+        "source": "Bien'ici"
+      },
+      {
+        "titre": "Maison 180.0m²",
+        "prix": 699000.0,
+        "surface": 180.0,
+        "prix_m2": 3883.0,
+        "url": "https://www.seloger.com/annonces/achat/maison/creteil-94/cimetiere/236905253.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Maison 260.0m²",
+        "prix": 998000.0,
+        "surface": 260.0,
+        "prix_m2": 3838.0,
+        "url": "https://www.seloger.com/annonces/achat/maison/creteil-94/hotel-de-ville/251560817.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Maison 176.0m²",
+        "prix": 672000.0,
+        "surface": 176.0,
+        "prix_m2": 3818.0,
+        "url": "https://www.seloger.com/annonces/achat/maison/creteil-94/cimetiere/236974863.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Maison 160.0m²",
+        "prix": 739000.0,
+        "surface": 160.0,
+        "prix_m2": 4619.0,
+        "url": "https://www.seloger.com/annonces/achat/maison/creteil-94/bords-de-marne/251459929.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "PLAISIR - CHÂTEAU",
+        "prix": 749000.0,
+        "surface": 161.2,
+        "prix_m2": 4646.0,
+        "url": "https://www.bienici.com/annonce/apimo-86507094",
+        "source": "Bien'ici"
+      },
+      {
+        "titre": "Maison 160.0m²",
+        "prix": 750000.0,
+        "surface": 160.0,
+        "prix_m2": 4688.0,
+        "url": "https://www.seloger.com/annonces/achat/maison/creteil-94/bords-de-marne/245490289.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "A VENDRE - MONTIGNY LE BRETONNEUX",
+        "prix": 777000.0,
+        "surface": 163.0,
+        "prix_m2": 4767.0,
+        "url": "https://www.bienici.com/annonce/nestenn-1-99932797636",
+        "source": "Bien'ici"
+      },
+      {
+        "titre": "Maison 175.0m²",
+        "prix": 629000.0,
+        "surface": 175.0,
+        "prix_m2": 3594.0,
+        "url": "https://www.seloger.com/annonces/achat/maison/creteil-94/cimetiere/253997763.htm",
+        "source": "SeLoger"
+      },
+      {
+        "titre": "Maison 4 chambres et dépendance POMMIERS versant Ouest Vue I",
+        "prix": 778000.0,
+        "surface": 160.0,
+        "prix_m2": 4862.0,
+        "url": "https://www.bienici.com/annonce/netty-pietrapolis-house-68327",
+        "source": "Bien'ici"
+      }
+    ],
+    "cached_at": "2025-12-30T17:59:41.255092"
   }
 }
